@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44230927846",
+    "project_id": "carwash-592e8",
+    "storage_bucket": "carwash-592e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44230927846:android:5ddc166858465338b92227",
+        "android_client_info": {
+          "package_name": "com.carwash.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfxW7UwJgjfwxFmeRZBBS63bmvEW4UMx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
